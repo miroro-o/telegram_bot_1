@@ -1,0 +1,13 @@
+#python stuff
+.pylintric
+__pycache__/
+
+#ide stuff
+.vscode
+.idea
+
+#django stuff
+dishes2.db
+users.db
+config.py
+
